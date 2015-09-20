@@ -52,7 +52,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_1" />
+            android:src="@mipmap/tile_cross_rot_1" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -74,7 +74,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_1" />
+            android:src="@mipmap/tile_cross_rot_1" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -107,7 +107,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_0" />
+            android:src="@mipmap/tile_cross_rot_0" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -118,7 +118,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_1" />
+            android:src="@mipmap/tile_cross_rot_1" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -151,7 +151,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_1" />
+            android:src="@mipmap/tile_cross_rot_1" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -184,7 +184,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_0" />
+            android:src="@mipmap/tile_cross_rot_0" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -206,7 +206,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_0" />
+            android:src="@mipmap/tile_cross_rot_0" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -228,7 +228,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_1" />
+            android:src="@mipmap/tile_cross_rot_1" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -250,7 +250,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_2" />
+            android:src="@mipmap/tile_cross_rot_2" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -294,7 +294,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_2" />
+            android:src="@mipmap/tile_cross_rot_2" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -338,7 +338,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_0" />
+            android:src="@mipmap/tile_cross_rot_0" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -360,7 +360,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_3" />
+            android:src="@mipmap/tile_cross_rot_3" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -382,7 +382,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_2" />
+            android:src="@mipmap/tile_cross_rot_2" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -404,7 +404,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_2" />
+            android:src="@mipmap/tile_cross_rot_2" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -426,7 +426,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_2" />
+            android:src="@mipmap/tile_cross_rot_2" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -448,7 +448,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_3" />
+            android:src="@mipmap/tile_cross_rot_3" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -514,7 +514,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_t_rot_3" />
+            android:src="@mipmap/tile_cross_rot_3" />
 
         <ImageButton
             android:layout_width="85dp"
@@ -570,7 +570,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -582,7 +582,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -594,7 +594,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -606,7 +606,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -618,7 +618,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -630,7 +630,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -642,7 +642,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -654,7 +654,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -666,7 +666,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -678,7 +678,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -690,7 +690,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -702,7 +702,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -714,7 +714,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -726,7 +726,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -738,7 +738,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -750,7 +750,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -762,7 +762,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -774,7 +774,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -786,7 +786,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -798,7 +798,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -810,7 +810,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -822,7 +822,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -834,7 +834,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -846,7 +846,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -858,7 +858,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -870,7 +870,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -882,7 +882,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -906,7 +906,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -918,7 +918,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -930,7 +930,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -942,7 +942,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -954,7 +954,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -966,14 +966,14 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
             android:layout_height="85dp"
             android:id="@+id/tile_highlight_6_4"
             android:layout_column="6"
-            android:layout_row="0"
+            android:layout_row="4"
             android:layout_gravity="center"
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
@@ -990,7 +990,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1002,7 +1002,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1014,7 +1014,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1026,7 +1026,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1038,7 +1038,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1050,7 +1050,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1062,7 +1062,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1074,7 +1074,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1086,7 +1086,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1098,7 +1098,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1110,7 +1110,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1122,7 +1122,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1134,7 +1134,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
             android:layout_width="85dp"
@@ -1146,11 +1146,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_highlight" />
+            android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_0"
             android:layout_column="0"
             android:layout_row="0"
@@ -1161,8 +1161,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_0"
             android:layout_column="1"
             android:layout_row="0"
@@ -1173,8 +1173,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_0"
             android:layout_column="2"
             android:layout_row="0"
@@ -1182,11 +1182,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_tooth" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_0"
             android:layout_column="3"
             android:layout_row="0"
@@ -1197,8 +1197,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_0"
             android:layout_column="4"
             android:layout_row="0"
@@ -1206,11 +1206,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_anchor" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_0"
             android:layout_column="5"
             android:layout_row="0"
@@ -1221,8 +1221,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_0"
             android:layout_column="6"
             android:layout_row="0"
@@ -1233,8 +1233,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_1"
             android:layout_column="0"
             android:layout_row="1"
@@ -1242,11 +1242,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_bow" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_1"
             android:layout_column="1"
             android:layout_row="1"
@@ -1254,11 +1254,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_pill" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_1"
             android:layout_column="2"
             android:layout_row="1"
@@ -1269,8 +1269,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_1"
             android:layout_column="3"
             android:layout_row="1"
@@ -1281,8 +1281,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_1"
             android:layout_column="4"
             android:layout_row="1"
@@ -1290,11 +1290,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_briefcase" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_1"
             android:layout_column="5"
             android:layout_row="1"
@@ -1302,11 +1302,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_dog" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_1"
             android:layout_column="6"
             android:layout_row="1"
@@ -1317,8 +1317,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_2"
             android:layout_column="0"
             android:layout_row="2"
@@ -1326,11 +1326,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_alarm_bell" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_2"
             android:layout_column="1"
             android:layout_row="2"
@@ -1341,8 +1341,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_2"
             android:layout_column="2"
             android:layout_row="2"
@@ -1350,11 +1350,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_tools" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_2"
             android:layout_column="3"
             android:layout_row="2"
@@ -1365,8 +1365,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_2"
             android:layout_column="4"
             android:layout_row="2"
@@ -1374,11 +1374,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_bear" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_2"
             android:layout_column="5"
             android:layout_row="2"
@@ -1389,8 +1389,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_2"
             android:layout_column="6"
             android:layout_row="2"
@@ -1398,11 +1398,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_telescope" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_3"
             android:layout_column="0"
             android:layout_row="3"
@@ -1410,11 +1410,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_candy" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_3"
             android:layout_column="1"
             android:layout_row="3"
@@ -1425,8 +1425,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_3"
             android:layout_column="2"
             android:layout_row="3"
@@ -1434,11 +1434,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_clock" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_3"
             android:layout_column="3"
             android:layout_row="3"
@@ -1446,11 +1446,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_pile_of_gold" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_3"
             android:layout_column="4"
             android:layout_row="3"
@@ -1461,8 +1461,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_3"
             android:layout_column="5"
             android:layout_row="3"
@@ -1473,8 +1473,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_3"
             android:layout_column="6"
             android:layout_row="3"
@@ -1485,8 +1485,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_4"
             android:layout_column="0"
             android:layout_row="4"
@@ -1494,11 +1494,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_beer" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_4"
             android:layout_column="1"
             android:layout_row="4"
@@ -1509,8 +1509,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_4"
             android:layout_column="2"
             android:layout_row="4"
@@ -1518,11 +1518,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_table_lamp" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_4"
             android:layout_column="3"
             android:layout_row="4"
@@ -1530,11 +1530,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_dna" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_4"
             android:layout_column="4"
             android:layout_row="4"
@@ -1542,11 +1542,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_black_board" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_4"
             android:layout_column="5"
             android:layout_row="4"
@@ -1557,20 +1557,20 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_4"
             android:layout_column="6"
-            android:layout_row="0"
+            android:layout_row="4"
             android:layout_gravity="center"
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_squirrel" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_5"
             android:layout_column="0"
             android:layout_row="5"
@@ -1581,8 +1581,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_5"
             android:layout_column="1"
             android:layout_row="5"
@@ -1590,11 +1590,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_cash_register" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_5"
             android:layout_column="2"
             android:layout_row="5"
@@ -1605,8 +1605,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_5"
             android:layout_column="3"
             android:layout_row="5"
@@ -1614,11 +1614,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_grapes" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_5"
             android:layout_column="4"
             android:layout_row="5"
@@ -1629,8 +1629,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_5"
             android:layout_column="5"
             android:layout_row="5"
@@ -1641,8 +1641,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_5"
             android:layout_column="6"
             android:layout_row="5"
@@ -1653,8 +1653,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_0_6"
             android:layout_column="0"
             android:layout_row="6"
@@ -1665,8 +1665,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_1_6"
             android:layout_column="1"
             android:layout_row="6"
@@ -1677,8 +1677,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_2_6"
             android:layout_column="2"
             android:layout_row="6"
@@ -1686,11 +1686,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_books" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_3_6"
             android:layout_column="3"
             android:layout_row="6"
@@ -1701,8 +1701,8 @@
             android:src="@mipmap/tile_blank" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_4_6"
             android:layout_column="4"
             android:layout_row="6"
@@ -1710,11 +1710,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_spaceship" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_5_6"
             android:layout_column="5"
             android:layout_row="6"
@@ -1722,11 +1722,11 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/treasure_cake" />
 
         <ImageView
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
             android:id="@+id/tile_treasureDisplay_6_6"
             android:layout_column="6"
             android:layout_row="6"
@@ -1998,7 +1998,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/tile_overlay_players_yellow" />
 
         <ImageView
             android:layout_width="85dp"
@@ -2034,7 +2034,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/tile_overlay_players_pink" />
 
         <ImageView
             android:layout_width="85dp"
@@ -2149,12 +2149,12 @@
             android:layout_height="85dp"
             android:id="@+id/tile_playerDisplay_6_4"
             android:layout_column="6"
-            android:layout_row="0"
+            android:layout_row="4"
             android:layout_gravity="center"
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/tile_overlay_players_blue" />
 
         <ImageView
             android:layout_width="85dp"
@@ -2202,7 +2202,7 @@
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
             android:padding="2dp"
-            android:src="@mipmap/tile_blank" />
+            android:src="@mipmap/tile_overlay_players_green" />
 
         <ImageView
             android:layout_width="85dp"
@@ -2379,6 +2379,65 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="1"></LinearLayout>
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/blue_turn"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:textSize="30dp"
+            android:allowUndo="false"
+            android:padding="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/current_target"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:textSize="30dp"
+            android:padding="5dp" />
+
+        <ImageView
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal"
+            android:src="@mipmap/treasure_tooth"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/targets_remaining"
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:textSize="30dp"
+            android:padding="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3"
+            android:id="@+id/textView4"
+            android:layout_gravity="center_horizontal"
+            android:textSize="30dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/move_player"
+            android:id="@+id/textView5"
+            android:layout_gravity="center_horizontal"
+            android:textSize="30dp"
+            android:padding="5dp" />
+    </LinearLayout>
 
 </LinearLayout>
