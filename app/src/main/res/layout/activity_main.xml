@@ -2392,7 +2392,7 @@
             android:padding="5dp" />
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/current_target"
             android:id="@+id/textView2"
@@ -2427,7 +2427,7 @@
 
         <Space
             android:layout_width="match_parent"
-            android:layout_height="40dp"
+            android:layout_height="20dp"
             android:layout_gravity="center_horizontal" />
 
         <TextView
@@ -2438,6 +2438,35 @@
             android:layout_gravity="center_horizontal"
             android:textSize="30dp"
             android:padding="5dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/end_turn"
+            android:id="@+id/passTurnButton"
+            android:layout_gravity="center" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:id="@+id/tile_base_extra"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:src="@mipmap/tile_line_rot_0"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:id="@+id/tile_treasure_extra"
+                android:layout_alignTop="@+id/tile_base_extra"
+                android:layout_alignLeft="@+id/tile_base_extra"
+                android:layout_alignStart="@+id/tile_base_extra" />
+        </RelativeLayout>
     </LinearLayout>
 
 </LinearLayout>
